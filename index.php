@@ -1,5 +1,5 @@
 <?php
-	$mp3 = array();
+	$mp3 = array(sounds);
 	$mp3directory = 'neil';
 	
 	// build an array of MP3 files 
